@@ -1,0 +1,19 @@
+{
+      "name": "meal-card-system",
+      "private": true,
+      "version": "1.0.0",
+      "type": "module",
+      "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+      },
+      "devDependencies": {
+        "sass": "^1.71.1",
+        "vite": "^5.4.2"
+      },
+      "dependencies": {
+        "chart.js": "^4.4.1",
+        "html5-qrcode": "^2.3.8"
+      }
+    }
